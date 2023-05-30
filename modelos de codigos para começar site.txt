@@ -24,16 +24,16 @@
     <main>
         <section id="planos">
             <h2>Planos de Internet</h2>
-            <p>Planos a partir de 20 megas  50 megas atÃ© 100 megas por preÃ§os acessÃ­veis.</p>
+            <p>Planos a partir de 20 megas  50 megas até 100 megas por preços acessíveis.</p>
         </section>
         <section id="cobertura">
             <h2>Cobertura</h2>
-            <p>Estamos com cobertura na cidade e nas localidades do Bairro Acude Velho, com projeto de expansÃ£o para zonas rurais .</p>
+            <p>Estamos com cobertura na cidade e nas localidades do Bairro Acude Velho, com projeto de expansão para zonas rurais .</p>
         </section>
         <section id="contato">
             <h2>Contato</h2>
              <p>(77)99908-8873</p> <br>
-             <p>EndereÃ§o: Avenida Joaquim Ferraz De AraÃºjo s/n. </p> <br>   
+             <p>Endereço: Avenida Joaquim Ferraz De Araújo s/n. </p> <br>   
         </section>
     </main>
     <footer>
